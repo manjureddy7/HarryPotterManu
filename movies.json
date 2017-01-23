@@ -1,0 +1,85 @@
+{
+  "movies": [{
+    "title" : "Harry Potter and the Philosopher's Stone (2001)",
+    "episode_number" : "1",
+    "main_characters" : ["Harry Potter", "Hermione", "Hermione Granger", " Professor Dumbledore", "Voldemort", "Snape","Hagrid"],
+    "description" : "Harry Potter is an orphaned boy brought up by his unfriendly aunt and uncle. At the age of eleven, half-giant Rubeus Hagrid informs him that he is actually a wizard and that his parents were murdered by an evil wizard named Lord Voldemort. Voldemort also attempted to kill one-year-old Harry on the same night, but his killing curse mysteriously rebounded and reduced him to a weak and helpless form. Harry became extremely famous in the Wizarding World as a result. Harry begins his first year at Hogwarts School of Witchcraft and Wizardry and learns about magic. During the year, Harry and his friends Ron Weasley and Hermione Granger become entangled in the mystery of the Philosopher's Stone which is being kept within the school.",
+    "poster" : "part-1.jpg",
+    "hero_image" : "f1.jpg"
+  },
+
+  {
+    "title" : "Harry Potter and the Chamber of Secrets (2002)",
+    "episode_number" : "2",
+    "main_characters" : ["Harry Potter", "Hermione", "Hermione Granger", " Professor Dumbledore", "Voldemort", "Snape","Hagrid"],
+    "description" : "Harry, Ron, and Hermione return to Hogwarts for their second year, which proves to be more challenging than the last. The Chamber of Secrets has been opened, leaving students and ghosts petrified by an unleashed monster. Harry must face up to claims that he is the heir of Salazar Slytherin (founder of the Chamber), learn that he can speak Parseltongue, and also discover the properties of a mysterious diary, only to find himself trapped within the Chamber of Secrets itself.",
+    "poster" : "part-2.jpg",
+    "hero_image" : "ff2.jpg"
+  },
+
+  {
+    "title" : "Harry Potter and the Prisoner of Azkaban (2004)",
+    "episode_number" : "3",
+    "main_characters" : ["Harry Potter", "Hermione", "Hermione Granger", " Professor Dumbledore", "Voldemort", "Snape","Hagrid"],
+    "description" : "Harry Potter's third year sees the boy wizard, along with his friends, attending Hogwarts School once again. Professor R. J. Lupin joins the staff as Defence Against the Dark Arts teacher, while convicted murderer Sirius Black escapes from Azkaban Prison. The Ministry of Magic entrusts the Dementors of Azkaban to guard Hogwarts from Black. Harry learns more about his past and his connection with the escaped prisoner.",
+    "poster" : "part-3.jpg",
+    "hero_image" : "f34.jpg"
+  },
+
+  {
+    "title" : "Harry Potter and the Goblet of Fire (2005)",
+    "episode_number" : "4",
+    "main_characters" : ["Harry Potter", "Hermione", "Hermione Granger", " Professor Dumbledore", "Voldemort", "Snape","Hagrid"],
+    "description" : "During Harry's fourth year, Hogwarts plays host to a legendary event: the Triwizard Tournament. Three European schools participate in the tournament, with three 'champions' representing each school in the deadly tasks. The Goblet of Fire chooses Fleur Delacour, Viktor Krum, and Cedric Diggory to compete against each other. However, curiously, Harry's name is also produced from the Goblet thus making him a fourth champion, which results in a terrifying encounter with a reborn Lord Voldemort.",
+    "poster" : "part-4.jpg",
+    "hero_image" : "f4.jpg"
+  },
+
+  {
+    "title" : "Harry Potter and the Order of the Phoenix (2007)",
+    "episode_number" : "5",
+     "main_characters" : ["Harry Potter", "Hermione", "Hermione Granger", " Professor Dumbledore", "Voldemort", "Snape","Hagrid"],
+    "description" : "Harry's fifth year begins with him being attacked by Dementors in Little Whinging. Later, he finds out that the Ministry of Magic is in denial of Lord Voldemort's return. Harry is also beset by disturbing and realistic nightmares, while Professor Umbridge, a representative of Minister for Magic Cornelius Fudge, is the new Defence Against the Dark Arts teacher. Harry becomes aware that Voldemort is after a prophecy which reveals: . The rebellion involving the students of Hogwarts, secret organisation Order of the Phoenix, the Ministry of Magic, and the Death Eaters begins.",
+    "poster" : "part-5.jpg",
+    "hero_image" : "f51.jpg"
+  },
+
+  {
+    "title" : "Harry Potter and the Half-Blood Prince (2009)",
+    "episode_number" : "6",
+    "main_characters" : ["Harry Potter", "Hermione", "Hermione Granger", " Professor Dumbledore", "Voldemort", "Snape","Hagrid"],
+    "description" : "In Harry's sixth year at Hogwarts, Lord Voldemort and his Death Eaters are increasing their terror upon the Wizarding and Muggle worlds. Headmaster Albus Dumbledore persuades his old friend Horace Slughorn to return to Hogwarts as a professor as there is a vacancy to fill. There is a more important reason, however, for Slughorn's return. While in a Potions lesson, Harry takes possession of a strangely annotated school textbook, inscribed 'This is the property of the Half-Blood Prince'. Draco Malfoy struggles to carry out a deed presented to him by Voldemort. Meanwhile, Dumbledore and Harry secretly work together to discover the method on how to destroy the Dark Lord once and for all.",
+    "poster" : "part-6.jpg",
+    "hero_image" : "f61.jpg"
+  },
+   {
+    "title" : "Harry Potter and the Deathly Hallows – Part 1 (2010)",
+    "episode_number" : "7",
+    "main_characters" : ["Harry Potter", "Hermione", "Hermione Granger", " Professor Dumbledore", "Voldemort", "Snape","Hagrid"],
+    "description" : "After unexpected events at the end of the previous year, Harry, Ron, and Hermione are entrusted with a quest to find and destroy Lord Voldemort's secret to immortality – the Horcruxes. It is supposed to be their final year at Hogwarts, but the collapse of the Ministry of Magic and Voldemort's rise to power prevents them from attending. The trio undergo a long journey with many obstacles in their path including Death Eaters, Snatchers, the mysterious Deathly Hallows, and Harry's connection with the Dark Lord's mind becoming ever stronger.",
+    "poster" : "part-7.jpg",
+    "hero_image" : "f7.jpg"
+  },
+   {
+    "title" : "Harry Potter and the Deathly Hallows – Part 2 (2011)",
+    "episode_number" : "8",
+    "main_characters" : ["Harry Potter", "Hermione", "Hermione Granger", " Professor Dumbledore", "Voldemort", "Snape","Hagrid"],
+    "description" : "After destroying one Horcrux and discovering the significance of the three Deathly Hallows, Harry, Ron and Hermione continue to seek the other Horcruxes in an attempt to destroy Voldemort, who has now obtained the powerful Elder Wand. The Dark Lord discovers Harry's hunt for Horcruxes and launches an attack on Hogwarts School, where the trio return for one last stand against the dark forces that threaten the Wizarding and Muggle worlds.",
+    "poster" : "part-8.jpg",
+    "hero_image" : "f8.jpg"
+  },
+  {
+    "title" : "Fantastic Beasts And Where To Find Them (2016)",
+    "episode_number" : "9",
+    "main_characters" : ["Harry Potter", "Hermione", "Hermione Granger", " Professor Dumbledore", "Voldemort", "Snape","Hagrid"],
+    "description" : "After destroying one Horcrux and discovering the significance of the three Deathly Hallows, Harry, Ron and Hermione continue to seek the other Horcruxes in an attempt to destroy Voldemort, who has now obtained the powerful Elder Wand. The Dark Lord discovers Harry's hunt for Horcruxes and launches an attack on Hogwarts School, where the trio return for one last stand against the dark forces that threaten the Wizarding and Muggle worlds.",
+    "poster" : "beasts.jpg",
+    "hero_image" : "bs.jpg"
+  }
+
+
+
+
+]
+
+}
